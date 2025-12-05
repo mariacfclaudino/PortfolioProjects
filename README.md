@@ -1,11 +1,2 @@
 # PortfolioProjects
-📌 Overview
-This project performs an in-depth exploration of global COVID-19 data using SQL Server.
-The analysis covers key metrics such as:
-- Total cases
-- Total deaths
-- Mortality rate
-- Percentage of population infected
-- Vaccination progress over time
-- Comparisons by country and continent
-The goal is to demonstrate SQL data analysis skills, using queries, window functions, temporary tables, CTEs, views, and data type conversions.
+📌 Repository dedicated to projects developed with the aim of demonstrating my skills.
